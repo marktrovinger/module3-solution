@@ -1,12 +1,13 @@
 #header-nav {
-	background-color: #999999;
+	background-color: grey;
 	border-radius: 0;
 	border: 0;
 }
 
 #header-nav .navbar-brand a{
-	color: #ccc;
+	color: #33BBFF;
 	font-weight: bold;
+	
 }
 
 .navbar-brand a:hover, .navbar-brand a:focus {
@@ -14,7 +15,7 @@
 }
 
 .navbar-brand p{
-	color: #000;
+	color: #33BBFF;
 	text-align: left;
 	font-size: .7em;
 	color: black;
@@ -22,7 +23,7 @@
 }
 
 .navbar-brand p {
-	color: #000;
+	color: #33BBFF;
 	font-size: .7em;
 	margin-top: 15px;
 }
